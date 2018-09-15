@@ -1,0 +1,28 @@
+\documentclass{article}
+
+\usepackage[legalpaper,margin=1in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{braket}
+\usepackage{amsmath,amsthm,amssymb,physics}
+\renewcommand\thesubsection{(\alph{subsection})}
+\renewcommand\thesection{Problem \arabic{section}}
+\newcommand{\?}{\stackrel{?}{=}}
+\allowdisplaybreaks
+\usepackage{amsmath,amsthm,amssymb}
+
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+
+\begin{document}
+
+\title{Problem Set #}
+\author{Kazemi Adachi\\
+
+MATH 244, Professor X}
+\date{due date}
+\maketitle
+
+\section{}
+\subsection{}
+
+\end{document}
